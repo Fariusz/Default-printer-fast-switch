@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -file .\zmiana_drukarki_na_lplpr0011.ps1
